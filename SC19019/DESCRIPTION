@@ -1,0 +1,17 @@
+Package: SC19019
+Type: Package
+Title: What the Package Does in One 'Title Case' Line
+Version: 1.0
+Date: 2020-01-02
+Author: SC19019
+Maintainer: SC19019 <906387484@qq.com>
+Description: One paragraph description of what the package does as
+       one or more full sentences.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.3)
+LinkingTo: Rcpp
+RoxygenNote: 7.0.2
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL:https://github.com/SC19019/SC19019
+BugReports:https://github.com/SC19019/SC19019/issues
